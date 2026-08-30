@@ -1,0 +1,36 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Dependencies
+node_modules/
+
+# Python Cache & Testing
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build & Package Artifacts
+build/
+dist/
+*.egg-info/
+
+# Secrets & Local Configs
+.env
+.env.local
+secrets.json
+config.local.json
+
+# Local Databases & Media
+db.sqlite3
+*.sqlite3
+media/
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
