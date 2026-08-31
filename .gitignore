@@ -23,6 +23,7 @@ dist/
 .env.local
 secrets.json
 config.local.json
+settings.json
 
 # Local Databases & Media
 db.sqlite3
